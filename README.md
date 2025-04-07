@@ -89,9 +89,9 @@ matplotlib'''
 
 ## 🧑‍💻 Author
 
-# Kriti Misra
-# 2nd Year Undergraduate, Acharya Narendra Dev College
-# 🌐 GitHub
-# 📧 krtimisra67@gmail.com
-# 🚀 GSoC 2025 Aspirant, AI/ML Research Enthusiast
+### Kriti Misra
+###  2nd Year Undergraduate, Acharya Narendra Dev College
+### 🌐 GitHub
+### 📧 krtimisra67@gmail.com
+### 🚀 GSoC 2025 Aspirant, AI/ML Research Enthusiast
 
