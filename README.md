@@ -8,7 +8,7 @@ Welcome to my submission for the **GSoC RenAIssance Project** under the **Human-
 ## 📚 Table of Contents
 
 - [📌 Specific Test I: OCR on Renaissance Text](#-specific-test-i-ocr-on-renaissance-text)
-- [🧠 Specific Test II: Covert Criminal Communication Detection](#-specific-test-ii-covert-criminal-communication-detection)
+- [🧠 Specific Test II: Main Text Region Detection *(Optional/WIP)*](#-Main Text Region Detection *(Optional/WIP)*)
 - [🖋 Specific Test III: Synthetic Renaissance Text Generation](#-specific-test-iii-synthetic-renaissance-text-generation)
 - [📊 Evaluation Metrics](#-evaluation-metrics)
 - [🛠 Requirements](#-requirements)
@@ -32,17 +32,17 @@ Welcome to my submission for the **GSoC RenAIssance Project** under the **Human-
 
 ---
 
-## 🧠 Specific Test II: Covert Criminal Communication Detection
+## 🧠 Main Text Region Detection *(Optional/WIP)*
 
-**Task:** Classify whether an online message uses codewords for illegal goods or services.
+**Task:** Main Text Region Detection *(Optional/WIP)*
 
 **Approach:**
 
-- Used a **TF-IDF + SVM pipeline** for baseline.
-- Also tested **BERT-based fine-tuned classifier**.
-- Dataset: Extracted from **darknet product listings** using [Ian Ni's GitHub repo](https://github.com/IanNi/dark-pattern-data).
+- Planned implementation using **LayoutLMv3**.
+- Detects main printed text excluding footnotes or borders.
+- Still under development.
 
-✅ **Key Tools:** `scikit-learn`, `transformers`, `pandas`, `matplotlib`
+✅ **Key Tools:** 'transformers', 'datasets', 'torch', 'Pillow','matplotlib', 'opencv-python'
 
 ---
 
